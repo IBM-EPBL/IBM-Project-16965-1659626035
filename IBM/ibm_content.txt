@@ -1,0 +1,31 @@
+
+here our objective is predict whther a person has heart disease or not here we used 
+machine algortihms to train test and test the data and then predict.
+
+
+Logistic Regression
+
+it is an supervised learning algorithm. it used to calculate or predict the probability
+of a binary such as yes or no here we situation like this event occurring.
+
+example
+
+determine if a person likely to be infected with heart disease or not.
+
+we get accuracy score of Logistic regression
+
+
+SVM Support vector machine
+
+it is to create the best line or decision boundry that can segregate n-dimensional
+space into classes so that we easily put the new data point in the correct category
+in the future.
+we get accuracy score of svm
+
+Random forest algorithm
+
+it is used widelt in classification and regression problem. it builds decision tree on
+different samples and takes their majority vote for classification and average in case
+of regression.
+we get accuracy score of random forest 
+
